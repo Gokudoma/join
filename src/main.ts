@@ -11,13 +11,13 @@ import { getAuth, provideAuth } from '@angular/fire/auth';
  * @description Firebase configuration object containing API keys and project identifiers.
  */
 const firebaseConfig = {
-  apiKey: 'AIzaSyD1fse1ML6Ie-iFClg_2Ukr-G1FEeQUHac',
-  authDomain: 'join-e1f64.firebaseapp.com',
-  projectId: 'join-e1f64',
-  storageBucket: 'join-e1f64.appspot.com',
-  messagingSenderId: '969006467578',
-  appId: '1:969006467578:web:52d944e5ed232984783c43',
-  measurementId: 'G-Y12RXDEX3N',
+  apiKey: "AIzaSyAsc9ZmtYpXCFUIgupsjoi2Za97p59yXgk",
+  authDomain: "join-f599b.firebaseapp.com",
+  projectId: "join-f599b",
+  storageBucket: "join-f599b.firebasestorage.app",
+  messagingSenderId: "485703034081",
+  appId: "1:485703034081:web:55489768cccc8ad9ca03a0",
+  measurementId: "G-LC3EMJV3MH"
 };
 
 /**
